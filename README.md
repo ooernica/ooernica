@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey, I'm Erna (air-na)! 👋
 
-<!--
-**ooernica/ooernica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Aspiring Front End Developer
+🥧 loves baking, coffee, crafts, quality time with family, and my two cats, Maša and Medo
+😄 Pronouns: she/her/hers
+📍 Colorado 
 
-Here are some ideas to get you started:
+# 👩🏻‍💻 What I'm up to
+🔭 I’m currently working on my portfolio, go check it out! https://ooernica.github.io/ErnaPortfolio/
+🌱 I’m currently learning Full Stack Development through the coding bootcamp at the University of Denver (expected completion 4.2022)
+👯 I’m looking to collaborate on coding projects that will help me fine tune my skills as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📫 How to reach me: ...
+- Email: e.lukac@outlook.com
+- Linked In: https://www.linkedin.com/in/ernalukac/
+
+
