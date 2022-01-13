@@ -6,7 +6,7 @@
 - 📍 Colorado 
 
 ### 🚀 What I'm up to:
-- 🔭 I’m currently working on my portfolio, go check it out! https://ooernica.github.io/ErnaPortfolio/
+- 🔭 I’m currently working on my portfolio, go check it out! https://ooernica.github.io/portfolio/
 - 🌱 I’m currently learning Full Stack Development through the coding bootcamp at the University of Denver (expected completion 4.2022)
 - 👯 I’m looking to collaborate on coding projects that will help me fine tune my skills as a developer.
 
