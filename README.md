@@ -1,6 +1,6 @@
 # Hey, I'm Erna (air-na)! 👋
 
-- ✨ Aspiring Front End Developer
+- ✨ Front End Developer
 - 🥧 loves baking, coffee, crafts, quality time with family, and my two cats, Maša and Medo
 - 😄 Pronouns: she/her/hers
 - 📍 Colorado 
